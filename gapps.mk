@@ -3,7 +3,6 @@
 #
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/app/ChromeBookmarksSyncAdapter.apk:$(PRODUCT_OUT)/system/app/ChromeBookmarksSyncAdapter.apk \
-    vendor/google/gapps/system/app/FaceLock.apk:$(PRODUCT_OUT)/system/app/FaceLock.apk \
     vendor/google/gapps/system/app/GalleryGoogle.apk:$(PRODUCT_OUT)/system/app/GalleryGoogle.apk \
     vendor/google/gapps/system/app/GenieWidget.apk:$(PRODUCT_OUT)/system/app/GenieWidget.apk \
     vendor/google/gapps/system/app/Gmail.apk:$(PRODUCT_OUT)/system/app/Gmail.apk \
