@@ -36,12 +36,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/gapps/system/framework/com.google.widevine.software.drm.jar:$(PRODUCT_OUT)/system/framework/com.google.widevine.software.drm.jar
 
 PRODUCT_COPY_FILES += \
-    vendor/google/gapps/system/lib/libfilterpack_facedetect.so:$(PRODUCT_OUT)/system/lib/libfilterpack_facedetect.so \
     vendor/google/gapps/system/lib/libflint_engine_jni_api.so:$(PRODUCT_OUT)/system/lib/libflint_engine_jni_api.so \
     vendor/google/gapps/system/lib/libfrsdk.so:$(PRODUCT_OUT)/system/lib/libfrsdk.so \
     vendor/google/gapps/system/lib/libgcomm_jni.so:$(PRODUCT_OUT)/system/lib/libgcomm_jni.so \
     vendor/google/gapps/system/lib/libpicowrapper.so:$(PRODUCT_OUT)/system/lib/libpicowrapper.so \
     vendor/google/gapps/system/lib/libspeexwrapper.so:$(PRODUCT_OUT)/system/lib/libspeexwrapper.so \
-    vendor/google/gapps/system/lib/libvideochat_jni.so:$(PRODUCT_OUT)/system/lib/libvideochat_jni.so \
-    vendor/google/gapps/system/lib/libvideochat_stabilize.so:$(PRODUCT_OUT)/system/lib/libvideochat_stabilize.so \
     vendor/google/gapps/system/lib/libvoicesearch.so:$(PRODUCT_OUT)/system/lib/libvoicesearch.so
